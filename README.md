@@ -1,1 +1,3 @@
-# data-structures
+### Data structures made in JavaScript
+
+- Stack
