@@ -60,5 +60,3 @@ class LinkedList {
     yield* this.nodes;
   }
 }
-
-export default LinkedList;
